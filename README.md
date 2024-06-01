@@ -8,3 +8,5 @@ To run the program, first install Yolov5 in your local directory with the follow
 pip install yolov5
 ```
 </p>
+
+After this, you must create a folder called "video" and name your video as "video.mp4"
