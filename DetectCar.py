@@ -44,7 +44,7 @@ def show_video():
         label_video.after(10, show_video) # Actualizar ventana despuéss de 5ms
 
 # Comenzar video
-cap = cv2.VideoCapture('video/race_car.mp4')
+cap = cv2.VideoCapture('video/video.mp4')
 if not cap.isOpened():
     print("Error al abrir el archivo de video")
     exit()
