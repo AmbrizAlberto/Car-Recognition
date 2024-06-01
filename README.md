@@ -9,4 +9,4 @@ pip install yolov5
 ```
 </p>
 
-After this, you must create a folder called "video" and name your video as "video.mp4"
+After this, you must create a folder called "video" (in the same directory) and name your video as "video.mp4"
